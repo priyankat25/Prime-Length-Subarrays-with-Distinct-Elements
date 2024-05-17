@@ -1,4 +1,4 @@
-Identifying Prime-Length Subarrays with Distinct Elements:
+# Identifying Prime-Length Subarrays with Distinct Elements:
 
 You are developing a unique data analysis tool, and you need to create a Java program that identifies prime-length subarrays with distinct elements in a given array. The program should efficiently handle the identification of these subarrays and use user input to specify the array elements.
 
